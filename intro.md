@@ -4,7 +4,6 @@
 background:linear-gradient(135deg,#f7f8ff,#eef2ff);
 box-shadow:0 8px 20px rgba(0,0,0,0.08);">
 
-<img src="https://youke3.picui.cn/s1/2026/01/14/696745345730f.jpg" alt="Profile Photo"
 width="160"
 style="border-radius:50%;box-shadow:0 6px 14px rgba(0,0,0,0.25);" />
 
@@ -131,3 +130,4 @@ graph TD
 - 在保证图片清晰度的前提下显著降低文件体积  
 - 提升网页加载速度与阅读体验  
 - 符合 iGEM Wiki 对单张图片大小（< 5 MB）的规范要求
+
